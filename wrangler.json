@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "demi-checkout",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "de3cbd56-6e17-412c-ab2a-01d5dbc412f5",
+			"database_name": "demi_orders_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
